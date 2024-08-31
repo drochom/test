@@ -1,9 +1,10 @@
-Movies/TV to watch:
-- Letterkenny
-- Mars Express
-- Rings of Power: Season 2
-- Fallout
-- Barca game
-- Dune: Part 2
-- Problemista
-
+Movies/TV/Game to watch:
+- [tv] Letterkenny
+- [movie] Mars Express
+- [tv] Rings of Power: Season 2
+- [tv] Fallout
+- [live sport] Barca game
+- [movie] Dune: Part 2
+- [movie] Problemista
+- [game] Animal Well
+- [game] Prince of Persia: The Lost Crown
