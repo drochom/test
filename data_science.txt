@@ -1,0 +1,11 @@
+Data Science Skills
+Python
+Databases and SQL
+Linear Algebra
+Machine Learning
+Data Visualization
+Deep Learning
+Probability
+Data Scraping
+Statistics
+Optimization
