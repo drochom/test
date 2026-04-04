@@ -1,0 +1,147 @@
+# German Vocabulary List - A2 Level
+# Format: word | article (- for verbs/adjectives/adverbs) | english | german_example | english_example
+# Articles: der (masculine), die (feminine), das (neuter), - (no article)
+
+Abendkasse|die|box office / evening ticket sales|Die Abendkasse öffnet um 19 Uhr.|The box office opens at 7 p.m.
+abfahren|-|to depart / drive off|Der Bus fährt um acht Uhr ab.|The bus departs at eight o'clock.
+Abfahrt|die|departure|Die Abfahrt ist in zehn Minuten.|The departure is in ten minutes.
+abgeben|-|to hand in / submit|Ich muss das Formular abgeben.|I have to hand in the form.
+abheben|-|to withdraw money / lift off|Ich möchte Geld abheben.|I would like to withdraw money.
+abholen|-|to pick up / collect|Kannst du mich vom Bahnhof abholen?|Can you pick me up from the station?
+Abitur|das|high school diploma (German A-levels)|Sie hat das Abitur bestanden.|She passed her Abitur.
+ablegen|-|to put down / take an exam|Er legt morgen eine Prüfung ab.|He is taking an exam tomorrow.
+ablehnen|-|to reject / refuse|Die Bank hat meinen Antrag abgelehnt.|The bank rejected my application.
+ablesen|-|to read off a meter|Der Mann liest den Stromzähler ab.|The man reads the electricity meter.
+Ablesung|die|meter reading|Die Ablesung findet einmal im Jahr statt.|The meter reading takes place once a year.
+abmelden|-|to deregister / sign off|Ich muss mich bei der Stadt abmelden.|I have to deregister with the city.
+Abmeldung|die|deregistration / sign-off|Die Abmeldung beim Einwohnermeldeamt ist wichtig.|The deregistration at the registration office is important.
+abschalten|-|to switch off / unwind|Bitte schalten Sie das Licht ab.|Please switch off the light.
+abschließen|-|to lock / complete|Vergiss nicht, die Tür abzuschließen.|Don't forget to lock the door.
+Abschluss|der|completion / degree / closing|Er hat seinen Abschluss an der Universität gemacht.|He got his degree at the university.
+absetzen|-|to put down / deduct|Er setzt die Arbeitskosten von der Steuer ab.|He deducts the work costs from taxes.
+abstellen|-|to park / turn off / put down|Wo kann ich mein Fahrrad abstellen?|Where can I park my bicycle?
+Abteilung|die|department|Sie arbeitet in der Abteilung für Marketing.|She works in the marketing department.
+Accessoires|die|accessories|Die Accessoires machen das Outfit komplett.|The accessories complete the outfit.
+afrikanisch|-|African|Das afrikanische Essen schmeckt sehr gut.|The African food tastes very good.
+aggressiv|-|aggressive|Der Hund ist sehr aggressiv.|The dog is very aggressive.
+ähnlich|-|similar|Die zwei Schwestern sehen sehr ähnlich aus.|The two sisters look very similar.
+Aktivität|die|activity|Sport ist eine gute Aktivität für Kinder.|Sport is a good activity for children.
+aktuell|-|current / up-to-date|Was sind die aktuellen Nachrichten?|What is the current news?
+Akupunktur|die|acupuncture|Akupunktur kann bei Rückenschmerzen helfen.|Acupuncture can help with back pain.
+alle|-|all / everyone|Alle Kinder spielen im Park.|All children are playing in the park.
+Alternative|die|alternative|Gibt es eine günstigere Alternative?|Is there a cheaper alternative?
+Altglas|das|waste glass / glass for recycling|Das Altglas kommt in den grünen Container.|The waste glass goes in the green container.
+Amt|das|office / public authority|Das Amt ist von 9 bis 16 Uhr geöffnet.|The office is open from 9 to 4 p.m.
+Amtsdeutsch|das|bureaucratic German|Das Amtsdeutsch ist oft schwer zu verstehen.|Bureaucratic German is often hard to understand.
+anbieten|-|to offer|Darf ich Ihnen etwas zu trinken anbieten?|May I offer you something to drink?
+ändern|-|to change / alter|Ich muss meinen Plan ändern.|I have to change my plan.
+anders|-|different / differently|Heute mache ich es anders.|Today I will do it differently.
+anerkannt|-|recognized / acknowledged|Sein Abschluss ist in Deutschland anerkannt.|His degree is recognized in Germany.
+Anfänger/in|der/die|beginner|Er ist noch ein Anfänger beim Kochen.|He is still a beginner at cooking.
+anfordern|-|to request / order|Ich muss einen neuen Ausweis anfordern.|I need to request a new ID.
+angeben|-|to state / declare / show off|Bitte geben Sie Ihre Adresse an.|Please state your address.
+Angehörige|der/die|relative / family member|Die Angehörigen wurden informiert.|The relatives were informed.
+Angst|die|fear / anxiety|Sie hat Angst vor dem Hund.|She is afraid of the dog.
+anhaben|-|to have on / wear|Was hat er heute an?|What is he wearing today?
+anklicken|-|to click on|Bitte klicken Sie auf den Link.|Please click on the link.
+ankommen|-|to arrive|Wann kommt der Zug an?|When does the train arrive?
+ankreuzen|-|to tick / mark with a cross|Bitte kreuzen Sie die richtige Antwort an.|Please tick the correct answer.
+Ankunft|die|arrival|Die Ankunft ist um 15 Uhr.|The arrival is at 3 p.m.
+Anruf|der|phone call|Ich habe einen Anruf bekommen.|I received a phone call.
+Anrufer/in|der/die|caller|Der Anrufer hat keine Nachricht hinterlassen.|The caller left no message.
+Anschluss|der|connection / fitting|Ich habe den Anschluss verpasst.|I missed the connection.
+Anschlusszug|der|connecting train|Der Anschlusszug fährt in fünf Minuten ab.|The connecting train departs in five minutes.
+Anschrift|die|address (written)|Bitte schreiben Sie Ihre Anschrift auf.|Please write down your address.
+Ansprechpartner/in|der/die|contact person|Wer ist der Ansprechpartner für diese Frage?|Who is the contact person for this question?
+Antrag|der|application / request / motion|Ich stelle einen Antrag auf Kindergeld.|I am applying for child benefit.
+Antragsteller/in|der/die|applicant|Der Antragsteller muss alle Dokumente einreichen.|The applicant must submit all documents.
+Anweisung|die|instruction / directive|Bitte folgen Sie den Anweisungen.|Please follow the instructions.
+Apfelschorle|die|apple juice spritzer|Eine Apfelschorle, bitte.|An apple juice spritzer, please.
+App|die|app|Ich habe eine neue App heruntergeladen.|I downloaded a new app.
+Appetit|der|appetite|Ich habe keinen Appetit heute.|I have no appetite today.
+Arbeitgeber/in|der/die|employer|Mein Arbeitgeber zahlt pünktlich.|My employer pays on time.
+Arbeitsagentur|die|employment agency|Die Arbeitsagentur hilft bei der Jobsuche.|The employment agency helps with the job search.
+Arbeitsauftrag|der|work order|Ich habe heute drei Arbeitsaufträge.|I have three work orders today.
+Arbeitsbeginn|der|start of work|Mein Arbeitsbeginn ist um 8 Uhr.|My start of work is at 8 o'clock.
+Arbeitserlaubnis|die|work permit|Ohne Arbeitserlaubnis darf man nicht arbeiten.|Without a work permit, one is not allowed to work.
+Arbeitslosengeld|das|unemployment benefit|Er bekommt Arbeitslosengeld.|He receives unemployment benefit.
+Arbeitsplatz|der|workplace / job position|Ich suche einen neuen Arbeitsplatz.|I am looking for a new job.
+Arbeitsschutz|der|occupational safety|Der Arbeitsschutz ist sehr wichtig.|Occupational safety is very important.
+Arbeitsvermittlung|die|job placement|Die Arbeitsvermittlung hat mir geholfen.|The job placement agency helped me.
+Arbeitsvertrag|der|employment contract|Ich habe meinen Arbeitsvertrag unterschrieben.|I signed my employment contract.
+Architektur|die|architecture|Die Architektur in Berlin ist beeindruckend.|The architecture in Berlin is impressive.
+ärgern|-|to annoy / get angry|Das ärgert mich wirklich.|That really annoys me.
+Armut|die|poverty|Armut ist ein großes Problem.|Poverty is a big problem.
+asiatisch|-|Asian|Das Restaurant hat asiatisches Essen.|The restaurant has Asian food.
+Aubergine|die|aubergine / eggplant|Ich kaufe eine Aubergine für das Abendessen.|I am buying an aubergine for dinner.
+Aufenthalt|der|stay / residence|Mein Aufenthalt in Berlin war sehr schön.|My stay in Berlin was very nice.
+Aufenthaltserlaubnis|die|residence permit|Sie braucht eine Aufenthaltserlaubnis.|She needs a residence permit.
+aufheben|-|to pick up / keep / cancel|Heb das Papier bitte auf.|Please pick up the paper.
+aufhören|-|to stop / quit|Hör bitte auf zu rauchen.|Please stop smoking.
+Auflistung|die|list / listing|Die Auflistung aller Kosten ist wichtig.|The listing of all costs is important.
+aufpassen|-|to pay attention / watch out|Pass bitte auf die Kinder auf.|Please watch out for the children.
+aufrufen|-|to call up / summon|Der Arzt ruft den nächsten Patienten auf.|The doctor calls up the next patient.
+aufschließen|-|to unlock|Kannst du die Tür aufschließen?|Can you unlock the door?
+Aufzug|der|elevator / lift|Der Aufzug ist außer Betrieb.|The elevator is out of service.
+Ausbildungsplatz|der|apprenticeship position|Er sucht einen Ausbildungsplatz.|He is looking for an apprenticeship position.
+ausblenden|-|to hide / fade out|Ich blende die Werbung aus.|I am hiding the advertisement.
+ausdrucken|-|to print out|Bitte drucken Sie das Formular aus.|Please print out the form.
+ausfallen|-|to be cancelled / fall out|Der Zug fällt heute aus.|The train is cancelled today.
+Ausflug|der|excursion / day trip|Wir machen morgen einen Ausflug.|We are going on a trip tomorrow.
+ausführen|-|to carry out / execute|Ich führe den Auftrag aus.|I am carrying out the order.
+ausgeben|-|to spend / issue|Er gibt zu viel Geld aus.|He spends too much money.
+ausgezeichnet|-|excellent / outstanding|Das Essen war ausgezeichnet.|The food was excellent.
+Ausgleich|der|balance / compensation|Sport ist ein guter Ausgleich zur Arbeit.|Sport is a good balance to work.
+Aushilfsjob|der|temporary / casual job|Ich habe einen Aushilfsjob im Supermarkt.|I have a casual job at the supermarket.
+Ausland|das|foreign country / abroad|Sie lebt im Ausland.|She lives abroad.
+Ausländeramt|das|foreigners' registration office|Ich muss zum Ausländeramt gehen.|I have to go to the foreigners' registration office.
+Ausländerbehörde|die|immigration authority|Die Ausländerbehörde hat meinen Antrag bearbeitet.|The immigration authority processed my application.
+ausmachen|-|to turn off / agree on|Macht das Licht aus, bitte.|Turn off the light, please.
+ausreichend|-|sufficient / adequate|Die Informationen sind ausreichend.|The information is sufficient.
+Ausrüstung|die|equipment / gear|Die Ausrüstung für das Camping ist fertig.|The camping equipment is ready.
+aussehen|-|to look / appear|Du siehst heute müde aus.|You look tired today.
+Außendienst|der|field service / outside work|Er arbeitet im Außendienst.|He works in field service.
+außer|-|except / besides / out of|Alle sind da, außer Maria.|Everyone is here, except Maria.
+Aussicht|die|view / prospect|Von hier hat man eine schöne Aussicht.|From here you have a beautiful view.
+aussteigen|-|to get off / exit a vehicle|Ich muss hier aussteigen.|I have to get off here.
+aussuchen|-|to choose / select|Such dir eine Farbe aus.|Choose a colour.
+Ausweis|der|ID card / identity card|Zeigen Sie bitte Ihren Ausweis.|Please show your ID card.
+ausziehen|-|to move out / take off clothes|Er zieht nächsten Monat aus.|He is moving out next month.
+Auszubildende|der/die|trainee / apprentice|Die Auszubildende lernt sehr schnell.|The trainee learns very quickly.
+Autofahren|das|driving / driving a car|Autofahren macht mir Spaß.|I enjoy driving.
+Automat|der|vending machine / machine|Der Automat akzeptiert keine Münzen.|The vending machine does not accept coins.
+Autounfall|der|car accident|Es gab einen Autounfall auf der Straße.|There was a car accident on the road.
+Babyartikel|die|baby products|Im Supermarkt gibt es viele Babyartikel.|The supermarket has many baby products.
+Babysitter/in|der/die|babysitter|Wir brauchen einen Babysitter für heute Abend.|We need a babysitter for tonight.
+Bäckereifachverkäufer/in|der/die|bakery sales specialist|Sie ist Bäckereifachverkäuferin.|She is a bakery sales specialist.
+Badesachen|die|swimming things / bathing suit|Vergiss deine Badesachen nicht!|Don't forget your swimming things!
+Bahnfahren|das|train travel|Bahnfahren ist sehr bequem.|Travelling by train is very comfortable.
+Bahnsteig|der|platform|Der Zug kommt auf Bahnsteig drei an.|The train arrives at platform three.
+Band|die|band (music group)|Die Band spielt heute Abend.|The band is playing tonight.
+Bankkarte|die|bank card|Ich bezahle mit der Bankkarte.|I pay with the bank card.
+Bankkaufmann/frau|der/die|banking professional / bank clerk|Er ist Bankkaufmann.|He is a banking professional.
+Bankleitzahl|die|bank sort code / routing number|Die Bankleitzahl steht auf dem Kontoauszug.|The sort code is on the bank statement.
+Bankschalter|der|bank counter / teller window|Gehen Sie bitte zum Bankschalter.|Please go to the bank counter.
+bar|-|in cash|Ich bezahle bar.|I pay in cash.
+Bargeld|das|cash (money)|Haben Sie Bargeld dabei?|Do you have cash with you?
+bargeldlos|-|cashless|Sie können bargeldlos bezahlen.|You can pay cashlessly.
+Bart|der|beard|Er hat einen langen Bart.|He has a long beard.
+Basis|die|basis / base|Das ist die Basis unserer Arbeit.|That is the basis of our work.
+Basketball|der|basketball|Er spielt jeden Tag Basketball.|He plays basketball every day.
+basteln|-|to do crafts / tinker|Die Kinder basteln gerne.|The children like doing crafts.
+beachten|-|to observe / follow a rule|Bitte beachten Sie die Regeln.|Please observe the rules.
+beantragen|-|to apply for / request|Ich muss eine neue Karte beantragen.|I need to apply for a new card.
+bearbeiten|-|to process / work on|Die Behörde bearbeitet meinen Antrag.|The authority is processing my application.
+Beauftragte|der/die|representative / commissioner|Der Beauftragte kommt morgen.|The representative is coming tomorrow.
+bedanken|-|to thank / express gratitude|Ich möchte mich herzlich bedanken.|I would like to thank you sincerely.
+bedeuten|-|to mean / signify|Was bedeutet dieses Wort?|What does this word mean?
+bedienen|-|to serve / operate a device|Darf ich Sie bedienen?|May I serve you?
+beeilen|-|to hurry / rush|Wir müssen uns beeilen.|We must hurry.
+beenden|-|to end / finish|Ich beende die Arbeit um 17 Uhr.|I finish work at 5 p.m.
+befriedigend|-|satisfactory|Die Note war nur befriedigend.|The grade was only satisfactory.
+begleichen|-|to settle / pay a bill|Ich möchte die Rechnung begleichen.|I would like to settle the bill.
+begründen|-|to justify / give reasons|Bitte begründen Sie Ihre Entscheidung.|Please justify your decision.
+Begrüßung|die|greeting / welcome|Die Begrüßung war sehr herzlich.|The greeting was very warm.
+Behandlung|die|treatment / therapy|Die Behandlung beim Arzt hat geholfen.|The treatment at the doctor's helped.
+Behörde|die|authority / government office|Die Behörde hat mir geholfen.|The government office helped me.
+Beinbruch|der|broken leg / "break a leg!"|Viel Glück, oder auf Deutsch: Hals- und Beinbruch!|Good luck, or in German: break a leg!
