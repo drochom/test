@@ -1,0 +1,21 @@
+name: Fetch Last Chess.com Game
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch last game
+        run: python3 fetch_last_game.py
+
+      - name: Commit last_game.pgn
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add last_game.pgn
+          git diff --cached --quiet || git commit -m "Update last_game.pgn"
+          git push
