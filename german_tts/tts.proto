@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package tts;
+
+service TTSService {
+  // Synthesize German text and play it on the server's speaker.
+  rpc Speak(SpeakRequest) returns (SpeakResponse);
+}
+
+message SpeakRequest {
+  string text = 1;
+  // Speech rate in words-per-minute. 0 = system default (~200 wpm).
+  int32 rate = 2;
+}
+
+message SpeakResponse {
+  bool success = 1;
+  string message = 2;
+}
