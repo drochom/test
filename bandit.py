@@ -79,8 +79,8 @@ def plot_results(results, epsilons):
 
 def main():
     n_arms = 10
-    n_steps = 10000
-    n_runs = 2000
+    n_steps = 30000
+    n_runs = 500
     epsilons = [0.0, 0.01, 0.1]
 
     print(f"Running {n_runs} independent runs, {n_steps} steps each...")
