@@ -90,9 +90,9 @@ def main():
     for eps in epsilons:
         avg_reward, pct_optimal = run_experiment(eps, n_arms, n_steps, n_runs)
         results.append((avg_reward, pct_optimal))
-        final_reward = avg_reward[-100:].mean()
+        final_reward = avg_reward.mean()
         final_optimal = pct_optimal[-100:].mean() * 100
-        print(f"ε={eps:4.2f}  last-100-step avg reward: {final_reward:.4f}  % optimal: {final_optimal:.1f}%")
+        print(f"ε={eps:4.2f}  avg reward (all steps): {final_reward:.4f}  % optimal: {final_optimal:.1f}%")
 
     plot_results(results, epsilons)
 
